@@ -1,23 +1,23 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# This file is part of webtorrent-checker-scraper.
+# This file is part of webtorrent_checker_scraper.
 #
 # Copyright (C) 2022, Thomas Debize <tdebize at mail.com>
 # All rights reserved.
 #
-# webtorrent-checker-scraper is free software: you can redistribute it and/or modify
+# webtorrent_checker_scraper is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Lesser General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
 # (at your option) any later version.
 #
-# webtorrent-checker-scraper is distributed in the hope that it will be useful,
+# webtorrent_checker_scraper is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU Lesser General Public License for more details.
 #
 # You should have received a copy of the GNU Lesser General Public License
-# along with webtorrent-checker-scraper.  If not, see <http://www.gnu.org/licenses/>.
+# along with webtorrent_checker_scraper.  If not, see <http://www.gnu.org/licenses/>.
 
 from lxml.html.soupparser import fromstring
 
